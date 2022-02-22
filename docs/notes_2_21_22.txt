@@ -1,0 +1,61 @@
+refinancing
+
+program to do a bulk text message prompting for a Yes/No 
+
+if yes:
+	send questionnaire:
+		- google form? Or custom html thing
+		
+at the end: respond with a message saying there will be a callback in 24-48 hours
+
+home loan now, more in the future
+
+##
+Data Inputs from LendGo
+
+- Are you seeking to...
+    - Refinance
+    - Buy a Home
+- How will you use this property?
+    - Primary Residence
+    - Secondary Home
+    - Investment Property
+
+- Property Type:
+    - Single Family
+    - Multi Family
+    - Town Home/Condo
+    - Mobile Home
+
+- Estimated Property Value
+    - Entered as a Number
+
+- Approximate 1st Mortgage Balance
+    - Entered as a Number
+
+- Estimate your Credit Rating:
+    - Excellent
+    - Good
+    - Average
+    - Poor or Fair
+
+- Have you had a bankruptcy/foreclosure in the last 7 years?
+    - No
+    - bankruptcy
+    - foreclosure
+    - both
+
+    - If Bankruptcy:
+        - How Long ago? enter as a #
+
+    - If Foreclosure:
+        - How Long ago? Enter as a #
+
+- Are you/Spouse Active/Veteran Military?
+    - yes
+    - no
+
+- Take in Property Address
+- Take in Name
+- Take in Email
+##
